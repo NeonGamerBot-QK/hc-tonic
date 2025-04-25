@@ -1,5 +1,6 @@
 ---
 title: My mocha theme
+layout: default
 ---
 
 # Cat puccin meow meow
